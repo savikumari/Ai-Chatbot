@@ -1,0 +1,384 @@
+{
+  "question": [
+    {
+      "question": "Hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "Good! Thanks for asking!"
+    },
+    {
+      "question": "...",
+      "answer": "Elipses"
+    },
+    {
+      "question": "do you know me?",
+      "answer": "anything else"
+    },
+    {
+      "question": "hey",
+      "answer": "hello"
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "whatsup?",
+      "answer": "Nothing special"
+    },
+    {
+      "question": "what is your name?",
+      "answer": "My name is bot"
+    },
+    {
+      "question": "What are the popular destinations?",
+      "answer": "Some of the popular destinations are Paris, Tokyo, New York, and Bali."
+    },
+    {
+      "question": "How can I book a flight?",
+      "answer": "You can book a flight through our website or by contacting our support team."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Our cancellation policy allows you to cancel your booking up to 24 hours before departure."
+    },
+    {
+      "question": "Do you offer travel insurance?",
+      "answer": "Yes, we offer travel insurance packages. Please visit our website for more details."
+    },
+    {
+      "question": "How can I change my booking?",
+      "answer": "You can change your booking by visiting the 'Manage Booking' section on our website or contacting our support team."
+    },
+    {
+      "question": "What are the payment options?",
+      "answer": "We accept credit cards, debit cards, and PayPal."
+    },
+    {
+      "question": "Do you offer group discounts?",
+      "answer": "Yes, we offer group discounts for bookings of 10 or more people."
+    },
+    {
+      "question": "Can I book a hotel through your website?",
+      "answer": "Yes, you can book hotels through our website in addition to flights and car rentals."
+    },
+    {
+      "question": "What should I do if my flight is delayed?",
+      "answer": "If your flight is delayed, please contact our support team for assistance."
+    },
+    {
+      "question": "How can I contact customer support?",
+      "answer": "You can contact customer support via phone, email, or live chat on our website."
+    },
+    {
+      "question": "What are the baggage policies?",
+      "answer": "Baggage policies vary by airline. Please check the specific airline's website for details."
+    },
+    {
+      "question": "Can I select my seat?",
+      "answer": "Yes, you can select your seat during the booking process or by managing your booking online."
+    },
+    {
+      "question": "Do you offer travel packages?",
+      "answer": "Yes, we offer a variety of travel packages that include flights, hotels, and car rentals."
+    },
+    {
+      "question": "How do I know if my booking is confirmed?",
+      "answer": "You will receive a confirmation email with all the details of your booking once it is confirmed."
+    },
+    {
+      "question": "Can I get a refund?",
+      "answer": "Refund policies vary by booking. Please refer to our cancellation policy or contact support for details."
+    },
+    {
+      "question": "What is the check-in process?",
+      "answer": "You can check in online through the airline's website or at the airport."
+    },
+    {
+      "question": "Do you offer special assistance for disabled travelers?",
+      "answer": "Yes, we offer special assistance. Please contact our support team to arrange for any special needs."
+    },
+    {
+      "question": "Can I earn reward points?",
+      "answer": "Yes, you can earn reward points through our loyalty program."
+    },
+    {
+      "question": "What should I do if I lose my luggage?",
+      "answer": "If you lose your luggage, please report it to the airline's baggage service office at the airport."
+    },
+    {
+      "question": "How early should I arrive at the airport?",
+      "answer": "It is recommended to arrive at least 2 hours before a domestic flight and 3 hours before an international flight."
+    },
+    {
+      "question": "Do you offer car rental services?",
+      "answer": "Yes, we offer car rental services. You can book a car through our website."
+    },
+    {
+      "question": "What documents do I need for international travel?",
+      "answer": "For international travel, you need a valid passport and may need a visa depending on your destination."
+    },
+    {
+      "question": "Can I travel with my pet?",
+      "answer": "Yes, many airlines allow pets. Please check the specific airline's pet policy."
+    },
+    {
+      "question": "What is the best time to book a flight?",
+      "answer": "The best time to book a flight is typically 2-3 months in advance for domestic flights and 4-5 months for international flights."
+    },
+    {
+      "question": "Do you offer last-minute deals?",
+      "answer": "Yes, we offer last-minute deals. Please check our website for the latest offers."
+    },
+    {
+      "question": "Can I upgrade my seat?",
+      "answer": "Yes, you can upgrade your seat by visiting the 'Manage Booking' section on our website or contacting our support team."
+    },
+    {
+      "question": "What are the visa requirements for traveling to Europe?",
+      "answer": "Visa requirements vary by country. Please check the embassy website of the country you plan to visit."
+    },
+    {
+      "question": "Do you offer travel guides?",
+      "answer": "Yes, we offer travel guides for various destinations. You can find them on our website."
+    },
+    {
+      "question": "How can I check the status of my flight?",
+      "answer": "You can check the status of your flight on our website or the airline's website."
+    },
+    {
+      "question": "Can I book multi-city flights?",
+      "answer": "Yes, you can book multi-city flights through our website."
+    },
+    {
+      "question": "What are the best destinations for a family vacation?",
+      "answer": "Some of the best destinations for a family vacation include Orlando, Hawaii, and Disneyland."
+    },
+    {
+      "question": "What should I do if I miss my flight?",
+      "answer": "If you miss your flight, please contact our support team for assistance."
+    },
+    {
+      "question": "Do you offer airport transfer services?",
+      "answer": "Yes, we offer airport transfer services. You can book a transfer through our website."
+    },
+    {
+      "question": "What are the best travel destinations for adventure seekers?",
+      "answer": "Some of the best travel destinations for adventure seekers include New Zealand, Costa Rica, and South Africa."
+    },
+    {
+      "question": "How can I find the best travel deals?",
+      "answer": "You can find the best travel deals by subscribing to our newsletter and checking our website regularly."
+    },
+    {
+      "question": "Do you offer travel rewards programs?",
+      "answer": "Yes, we offer a travel rewards program. You can earn points for every booking and redeem them for discounts."
+    },
+    {
+      "question": "Can I book a cruise through your website?",
+      "answer": "Yes, you can book a cruise through our website."
+    },
+    {
+      "question": "What are the best travel destinations for honeymoon?",
+      "answer": "Some of the best travel destinations for a honeymoon include Maldives, Bora Bora, and Santorini."
+    },
+    {
+      "question": "Do you offer all-inclusive travel packages?",
+      "answer": "Yes, we offer all-inclusive travel packages. Please check our website for more details."
+    },
+    {
+      "question": "How can I apply for a travel visa?",
+      "answer": "You can apply for a travel visa by visiting the embassy or consulate of the country you plan to visit."
+    },
+    {
+      "question": "What are the best destinations for solo travelers?",
+      "answer": "Some of the best destinations for solo travelers include Japan, Iceland, and Australia."
+    },
+    {
+      "question": "Can I book travel insurance through your website?",
+      "answer": "Yes, you can book travel insurance through our website."
+    },
+    {
+      "question": "What are the best beach destinations?",
+      "answer": "Some of the best beach destinations include Maldives, Seychelles, and the Bahamas."
+    },
+    {
+      "question": "What should I do if my flight is canceled?",
+      "answer": "If your flight is canceled, please contact our support team for assistance."
+    },
+    {
+      "question": "Do you offer tours and activities?",
+      "answer": "Yes, we offer tours and activities. You can book them through our website."
+    },
+    {
+      "question": "What are the best travel destinations for food lovers?",
+      "answer": "Some of the best travel destinations for food lovers include Italy, Thailand, and Japan."
+    },
+    {
+      "question": "Can I book a travel package that includes flights and accommodation?",
+      "answer": "Yes, you can book travel packages that include flights and accommodation through our website."
+    },
+    {
+      "question": "What are the best destinations for cultural experiences?",
+      "answer": "Some of the best destinations for cultural experiences include India, China, and Egypt."
+    },
+    {
+      "question": "What is the process for booking a flight online?",
+      "answer": "To book a flight online, visit our website, enter your travel details, select a flight, and complete the payment process."
+    },
+    {
+      "question": "Do you offer discounts for students?",
+      "answer": "Yes, we offer discounts for students. Please check our website for more details."
+    },
+    {
+      "question": "What are the best travel destinations for nature lovers?",
+      "answer": "Some of the best travel destinations for nature lovers include New Zealand, Canada, and Norway."
+    },
+    {
+      "question": "How can I find travel deals for my preferred destination?",
+      "answer": "You can find travel deals for your preferred destination by checking our website and subscribing to our newsletter."
+    },
+    {
+      "question": "Can I book travel insurance after booking my flight?",
+      "answer": "Yes, you can book travel insurance after booking your flight through our website."
+    },
+    {
+      "question": "What are the best destinations for a romantic getaway?",
+      "answer": "Some of the best destinations for a romantic getaway include Paris, Venice, and Bali."
+    },
+    {
+      "question": "How can I find last-minute travel deals?",
+      "answer": "You can find last-minute travel deals by checking our website and subscribing to our newsletter."
+    },
+    {
+      "question": "What are the best travel destinations for history enthusiasts?",
+      "answer": "Some of the best travel destinations for history enthusiasts include Rome, Athens, and Cairo."
+    },
+    {
+      "question": "Do you offer travel vouchers?",
+      "answer": "Yes, we offer travel vouchers. You can purchase them through our website."
+    },
+    {
+      "question": "What are the best destinations for wildlife safaris?",
+      "answer": "Some of the best destinations for wildlife safaris include Kenya, Tanzania, and South Africa."
+    },
+    {
+      "question": "How can I manage my booking online?",
+      "answer": "You can manage your booking online by visiting the 'Manage Booking' section on our website."
+    },
+    {
+      "question": "What are the best destinations for winter sports?",
+      "answer": "Some of the best destinations for winter sports include Switzerland, Canada, and Japan."
+    },
+    {
+      "question": "Do you offer travel tips and advice?",
+      "answer": "Yes, we offer travel tips and advice on our website and blog."
+    },
+    {
+      "question": "What are the best travel destinations for budget travelers?",
+      "answer": "Some of the best travel destinations for budget travelers include Vietnam, India, and Mexico."
+    },
+    {
+      "question": "How can I receive notifications about travel deals?",
+      "answer": "You can receive notifications about travel deals by subscribing to our newsletter."
+    },
+    {
+      "question": "What are the best destinations for city breaks?",
+      "answer": "Some of the best destinations for city breaks include New York, London, and Tokyo."
+    },
+    {
+      "question": "Do you offer travel gift cards?",
+      "answer": "Yes, we offer travel gift cards. You can purchase them through our website."
+    },
+    {
+      "question": "What are the best destinations for ecotourism?",
+      "answer": "Some of the best destinations for ecotourism include Costa Rica, Galapagos Islands, and Bhutan."
+    },
+    {
+      "question": "How can I book a flight for someone else?",
+      "answer": "You can book a flight for someone else by entering their details during the booking process on our website."
+    },
+    {
+      "question": "What are the best destinations for luxury travel?",
+      "answer": "Some of the best destinations for luxury travel include Dubai, Maldives, and Bora Bora."
+    },
+    {
+      "question": "Do you offer multi-destination travel packages?",
+      "answer": "Yes, we offer multi-destination travel packages. Please check our website for more details."
+    },
+    {
+      "question": "What are the best travel destinations for photography enthusiasts?",
+      "answer": "Some of the best travel destinations for photography enthusiasts include Iceland, Norway, and Peru."
+    },
+    {
+      "question": "How can I find the best time to travel to my destination?",
+      "answer": "You can find the best time to travel to your destination by checking our travel guides on our website."
+    },
+    {
+      "question": "Do you offer customized travel itineraries?",
+      "answer": "Yes, we offer customized travel itineraries. Please contact our support team for more details."
+    },
+    {
+      "question": "What are the best destinations for beach holidays?",
+      "answer": "Some of the best destinations for beach holidays include Maldives, Seychelles, and the Caribbean."
+    },
+    {
+      "question": "How can I get travel advice for a specific destination?",
+      "answer": "You can get travel advice for a specific destination by visiting our travel guides on our website or contacting our support team."
+    },
+    {
+      "question": "What are the best destinations for hiking and trekking?",
+      "answer": "Some of the best destinations for hiking and trekking include Nepal, Switzerland, and Patagonia."
+    },
+    {
+      "question": "Do you offer travel insurance for adventure sports?",
+      "answer": "Yes, we offer travel insurance for adventure sports. Please check our website for more details."
+    },
+    {
+      "question": "How can I book a last-minute hotel?",
+      "answer": "You can book a last-minute hotel through our website or mobile app."
+    },
+    {
+      "question": "What are the best destinations for cultural festivals?",
+      "answer": "Some of the best destinations for cultural festivals include India, Brazil, and Spain."
+    },
+    {
+      "question": "How can I book a flight with flexible dates?",
+      "answer": "You can book a flight with flexible dates by selecting the 'Flexible Dates' option during the booking process on our website."
+    },
+    {
+      "question": "Do you offer travel guides for solo travelers?",
+      "answer": "Yes, we offer travel guides for solo travelers. You can find them on our website."
+    },
+    {
+      "question": "What are the best destinations for scuba diving?",
+      "answer": "Some of the best destinations for scuba diving include the Great Barrier Reef, Maldives, and the Red Sea."
+    },
+    {
+      "question": "How can I book a flight with multiple stops?",
+      "answer": "You can book a flight with multiple stops through our website by selecting the 'Multi-City' option."
+    },
+    {
+      "question": "Do you offer travel insurance for medical emergencies?",
+      "answer": "Yes, we offer travel insurance for medical emergencies. Please check our website for more details."
+    },
+    {
+      "question": "What are the best destinations for a road trip?",
+      "answer": "Some of the best destinations for a road trip include Route 66 in the USA, the Great Ocean Road in Australia, and the Garden Route in South Africa."
+    },
+    {
+      "question": "How can I find cheap flights?",
+      "answer": "You can find cheap flights by using our 'Search Deals' feature on our website and subscribing to our newsletter."
+    },
+    {
+      "question": "do you suggest me best trip for honeymoon?",
+      "answer": "ok"
+    },
+    {
+      "question": "what is payment method?",
+      "answer": "ok"
+    }
+  ]
+}
